@@ -1,6 +1,3 @@
-# Laboratorio-EDD-Unab
-
-
 # Laboratorio Algoritmos y Estructuras de Datos Semestre 2021-2
 Laboratorios semanales de la asignatura Análisis y Estructuras de Datos Unab periodo 2021-2
 
